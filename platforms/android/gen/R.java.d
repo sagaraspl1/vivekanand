@@ -1,4 +1,4 @@
-/home/samiram/phonegap/vivekanand/platforms/android/gen/com/example/vivekanand/R.java \
+/home/samiram/phonegap/vivekanand/platforms/android/gen/com/phonegap/vivekanand/R.java \
  : /home/samiram/phonegap/vivekanand/platforms/android/res/values/strings.xml \
 /home/samiram/phonegap/vivekanand/platforms/android/res/drawable/icon.png \
 /home/samiram/phonegap/vivekanand/platforms/android/res/drawable-ldpi/icon.png \
